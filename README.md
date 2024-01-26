@@ -7,4 +7,4 @@
 
 -   💻 Check out my projects at [GitHub Repositories](https://github.com/sirajularfin?tab=repositories)
 
--   📫 Feel free to drop me a mail at <a href="mailto:sirajularfin@gmail.com">sirajularfin@gmail.com</a> or connect with me on Linkedin via <a href="https://linkedin.com/in/sirajularfin">sirajularfin</a>. I'm always eager to engage in interesting conversations!
+-   📫 Reach me at <a href="mailto:sirajularfin@gmail.com">sirajularfin@gmail.com</a> or on Linkedin via <a href="https://linkedin.com/in/sirajularfin">sirajularfin</a>. I'm always eager to engage in interesting conversations!
