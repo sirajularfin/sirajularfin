@@ -7,14 +7,4 @@
 
 -   💻 Check out my projects at [GitHub Repositories](https://github.com/sirajularfin?tab=repositories)
 
--   📫 Reach me at <a href="mailto:sirajularfin@gmail.com">sirajularfin@gmail.com</a>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/sirajularfin" target="blank">
-    <img src="/Assets/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="https://t.me/sirajularfin" target="blank">
-    <img src="/Assets/telegram.svg" alt="Telegram" height="30" width="40" />
-  </a>
-</p>
+-   📫 Feel free to drop me a mail at <a href="mailto:sirajularfin@gmail.com">sirajularfin@gmail.com</a> or connect with me on Linkedin via <a href="https://linkedin.com/in/sirajularfin">sirajularfin</a>. I'm always eager to engage in interesting conversations!
