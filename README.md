@@ -14,5 +14,5 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/sirajularfin" target="_blank"><img src="/Assets/linkedin.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://t.me/sirajularfin" target="_blank"><img src="/Assets/telegram.svg.svg" alt="Telegram" height="30" width="40" /></a>
+  <a href="https://t.me/sirajularfin" target="_blank"><img src="/Assets/telegram.svg" alt="Telegram" height="30" width="40" /></a>
 </p>
